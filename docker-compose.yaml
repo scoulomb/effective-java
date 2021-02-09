@@ -1,0 +1,5 @@
+version: "3.6"
+services:
+  effective-java-build:
+    build: .
+    image: effective-java-build

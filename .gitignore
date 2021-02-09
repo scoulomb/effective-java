@@ -1,0 +1,13 @@
+my-app/.idea
+*.iml
+.idea
+target/*
+*.class
+*.jar
+*pom.properties
+*surefire-reports*
+*.lst
+
+# git rm -r --cached . -f if needed to clean file from staging area whichs should be ignored (and also committed)
+# ALSO: git reset HEAD -- . (https://stackoverflow.com/questions/19730565/how-to-remove-files-from-git-staging-area)
+# ### git clean -fdx ### to remove uncommitted file
