@@ -82,5 +82,7 @@ See [example](ch7-lambdas-and-streams/src/main/java/com/mycompany/lambdasandstre
 
 # TODO
 
-Copy pom to improve + lambdas to finish to understand
-python //
+- Copy pom to improve + lambdas to finish to understand
+- python amd c++ parallel on lambdas
+- Try parent POM
+- next chapters
