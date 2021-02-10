@@ -82,8 +82,9 @@ See [example](ch7-lambdas-and-streams/src/main/java/com/mycompany/lambdasandstre
 
 # TODO
 
-- Copy pom to improve + lambdas to finish to understand
+- Copy pom to improve
 - python amd c++ parallel on lambdas
 - item 43 on lambda concluded but could read enum item to understand better  
+- also mystery how when using lambda it knows it has to override applyAsDouble
 - Try parent POM
 - next chapters
