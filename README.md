@@ -84,5 +84,6 @@ See [example](ch7-lambdas-and-streams/src/main/java/com/mycompany/lambdasandstre
 
 - Copy pom to improve + lambdas to finish to understand
 - python amd c++ parallel on lambdas
+- item 43 on lambda concluded but could read enum item to understand better  
 - Try parent POM
 - next chapters
