@@ -5,6 +5,7 @@ WORKDIR /working_dir
 COPY pom.xml /working_dir/pom.xml
 COPY my-app/pom.xml /working_dir/my-app/pom.xml
 COPY ch7-lambdas-and-streams/pom.xml /working_dir/ch7-lambdas-and-streams/pom.xml
+COPY code-reviews/pom.xml /working_dir/code-reviews/pom.xml
 
 RUN mvn -T1C dependency:go-offline clean install
 
