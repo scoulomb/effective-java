@@ -10,6 +10,7 @@
   <modules>
 	<module>my-app/pom.xml</module>
     <module>ch7-lambdas-and-streams/pom.xml</module>
+    <module>code-reviews/pom.xml</module>
   </modules>
     
 </project>
