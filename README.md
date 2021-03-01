@@ -1,6 +1,6 @@
 # README
 
-[![Build Status](https://travis-ci.org/scoulomb/effective-java.svg?branch=main)](https://travis-ci.org/scoulomb/effective-java)
+[![Build Status](https://travis-ci.org/scoulomb/effective-java.svg?branch=master)](https://travis-ci.org/scoulomb/effective-java)
 
 Sample example from Effective Java book.
 
