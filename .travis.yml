@@ -13,5 +13,6 @@ before_install:
   - sudo mv docker-compose /usr/local/bin
 
 script:
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
   - docker-compose up --build
   # we do not need detach here unlike: https://github.com/scoulomb/zalando_connexion_sample/blob/master/.travis.yml

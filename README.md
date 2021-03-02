@@ -79,8 +79,20 @@ But I use this repo to add more tests,
 It can also be runned when class are duplicated via maven or IDE.
 See [example](ch7-lambdas-and-streams/src/main/java/com/mycompany/lambdasandstreams/App.java).
 
-<!-- some issue with rate limit in travis already seen, similar to 
-https://raw.githubusercontent.com/scoulomb/private_script/main/dns-auto/end_of_year_2020.md -->
+## Some issues with rate limit in travis already seen
+
+<!--
+Similar to
+https://raw.githubusercontent.com/scoulomb/private_script/main/dns-auto/end_of_year_2020.md 
+-->
+
+
+Followed procedure here: https://blog.travis-ci.com/docker-rate-limits.
+To use account which can pull more than anonymous (travis ip).
+
+See [travis file](./.travis.yml).
+
+After docker login password save here in base64:`/home/vagrant/.docker/config.json`
 
 # TODO
 
